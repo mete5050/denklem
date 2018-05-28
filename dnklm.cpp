@@ -11,7 +11,6 @@
    using namespace std; 
    int main(){
     //system ("color f0");
-     cout<<" DENKLEM UYGULAMASI"<<endl; 
      while(true){
      cout<<"bilinmeyen yerine x yaziniz"<<endl; 
      cin>>y; 
